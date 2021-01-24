@@ -20,6 +20,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
   * [Imitation and Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#imitation-and-inverse-reinforcement-learning)
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
+  * [Social Law & Social Norm Learning](https://github.com/LantaoYu/MARL-Papers#Social-Law-&-Social-Norm-Learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
 ## Tutorial and Books
@@ -144,6 +145,7 @@ The sharing principle of these references here is for research. If any authors d
 ### Meta Learning
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/pdf/1710.03641.pdf) by l-Shedivat, M. 2018.
 
+### Social Law & Social Norm Learning
 
 ### Application
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))
